@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ashwinkolgaonkar
-- 👀 I’m interested in  front end web developement and .net
-- 🌱 I’m currently learning reactjs,.net 
+- 👀 im a electronics and telecommunication engineer
 - 📫 How to reach me 
 contact me : ashwinkolgaonkar@gmail.com
 
